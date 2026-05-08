@@ -214,10 +214,10 @@ Hospedado no Render.
 
 ## Frontend
 
-Pode ser hospedado na Vercel.
+Hospedado na Vercel.
 
 ---
 
-# 👨‍💻 Autor
+# 👨‍💻 Finalidade
 
 Projeto desenvolvido para fins acadêmicos e prática de desenvolvimento Full Stack.
